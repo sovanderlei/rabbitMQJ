@@ -2,11 +2,7 @@
 
 
 <p>In this article, we will learn about RabbitMQ and explore its common use-cases. We will also walk through a step-by-step guide to implement messaging using RabbitMQ in a Spring Boot Application.</p>
-
-<p>Examples:</p>
-
-<p>Dashboard</p>
-
+ 
 <p>Description </p>
 <p>I'm using this example to demonstrate a microservice that takes all the files from a folder, converts it into an object and then sends it to the message and then I could create a method to get and save it in a database on another server... whatever.. .
 </p>
@@ -26,9 +22,7 @@
 <p>Following images of the examples:</p>
  <img src="https://github.com/sovanderlei/rabbitMQJ/blob/main/src/main/webapp/imagens/rabbitmq0000.png" style="width:800px;height:600px;" 
 alt="Minha Figura">
-</br>
- <img src="" style="width:800px;height:600px;" 
-alt="Minha Figura">
+</br> 
 </br>
  <img src="https://github.com/sovanderlei/rabbitMQJ/blob/main/src/main/webapp/imagens/rabbitmq000000.png" style="width:800px;height:600px;" 
 alt="Minha Figura">
